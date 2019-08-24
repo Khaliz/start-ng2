@@ -1,7 +1,4 @@
-## Laraestate
+## CV HTML
 
-<p>This template was created by Prosper Kalu</p>
+<p>https://iamkhaliz.blogspot.com/2019/08/hng-6.html</p>
 
-<p>If you encounter any issue inbox me @ prosper.kalu@outlook.com</p>
-
-<p>Thanks !!!</p>
